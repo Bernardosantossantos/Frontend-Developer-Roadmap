@@ -18,8 +18,8 @@ Este repositorio está dedicado a documentar mi progreso personal mientras compl
 > **Descripción:**  
  **Single-Page CV**. Este es un currículum en formato de página única que sigue las buenas prácticas de HTML semántico y otras técnicas esenciales de desarrollo Frontend.
 
- ## Enlace al proyecto
-- [Primer Proyecto: Single-Page CV](./Single-Page CV B.S\readme.md)
+## Enlace al proyecto
+- [Primer Proyecto: Single-Page CV](./Single-Page%20CV%20B.S/readme.md)
 
 #### 🌐 **Vista previa del proyecto:**
 Puedes visitar el proyecto en tu navegador haciendo clic [aquí](#).
@@ -43,8 +43,8 @@ Si encuentras algo que pueda mejorar o quieres compartir tus ideas, no dudes en 
 ## 📬 Contacto
 
 Puedes contactarme a través de mis redes sociales o correo electrónico:
-- **GitHub:** [((https://www.github.com/Bernardosantossantos))]
-- **LinkedIn:** [[Tu Perfil](https://www.linkedin.com/in/bernardo-a-santos-santos-59985b1a2)](/)
+- **GitHub:** [Bernardosantossantos](https://www.github.com/Bernardosantossantos)
+- **LinkedIn:** [Bernardo A. Santos Santos](https://www.linkedin.com/in/bernardo-a-santos-santos-59985b1a2)
 - **Correo:** bernardoaneudy@gmail.com
 
 ---

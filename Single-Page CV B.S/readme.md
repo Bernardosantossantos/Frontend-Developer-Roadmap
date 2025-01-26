@@ -9,14 +9,16 @@ Entusiasmado de compartir mi primer proyecto del roadmap: un **Single-Page CV**.
 - **Favicon:** Añadí un favicon para personalizar la página y mejorar la experiencia del usuario.
 
 #### 📂 **Estructura del proyecto:**
+```
 /frontend-roadmap.sh-b.s
 ├── /primer-proyecto-single-page-cv
 │   ├── index.html         # Archivo principal con el contenido del CV
 │   ├── styles.css         # Hoja de estilos para el diseño del CV
-│   ├── /image            # Carpeta para imágenes, íconos y recursos
+│   ├── /image             # Carpeta para imágenes, íconos y recursos
 │   │   ├── favicon.ico    # Archivo de favicon
 │   └── README.md          # Documentación específica del proyecto
 └── README.md              # Documentación general del repositorio
+```
 
 
 #### 🛠️ **Tecnologías utilizadas:**
@@ -45,9 +47,9 @@ Si encuentras algo que pueda mejorar o quieres compartir tus ideas, no dudes en 
 ## 📬 Contacto
 
 Puedes contactarme a través de mis redes sociales o correo electrónico:
-- **GitHub:** [Tu Perfil]([#](https://www.github.com/Bernardosantossantos))
-- **LinkedIn:** [Tu Perfil]([#](https://www.linkedin.com/in/bernardo-a-santos-santos-59985b1a2/))
-- **Correo:** tuemail@bernardoaneudy@gmail.com
+- **GitHub:** [Bernardosantossantos](https://www.github.com/Bernardosantossantos)
+- **LinkedIn:** [Bernardo A. Santos Santos](https://www.linkedin.com/in/bernardo-a-santos-santos-59985b1a2)
+- **Correo:** bernardoaneudy@gmail.com
 
 ---
 
