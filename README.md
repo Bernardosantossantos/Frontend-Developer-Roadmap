@@ -18,11 +18,8 @@ Este repositorio está dedicado a documentar mi progreso personal mientras compl
 > **Descripción:**  
  **Single-Page CV**. Este es un currículum en formato de página única que sigue las buenas prácticas de HTML semántico y otras técnicas esenciales de desarrollo Frontend.
 
-## Enlace al proyecto
-- [Primer Proyecto: Single-Page CV](https://single-page-cv-bs.netlify.app/)
-
-#### 🌐 **project URL :**
-project URL  [aquí](https://single-page-cv-bs.netlify.app/)
+#### 🌐 **Enlace del proyecto:**
+Visita el proyecto desde tu navegador  [aquí](https://single-page-cv-bs.netlify.app/)
 
 ---
 #### 🌐 **project URL :**
