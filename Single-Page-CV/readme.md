@@ -32,8 +32,8 @@ Entusiasmado de compartir mi primer proyecto del roadmap: un **Single-Page CV**.
 - La utilidad de un favicon para mejorar el branding personal.
 
 
-#### 🌐 **Vista previa del proyecto:**
-Puedes visitar el proyecto en tu navegador haciendo clic [aquí](https://67970a30b8e334c49d24c1d5--creative-palmier-2014e1.netlify.app/).
+#### 🌐 **project URL :**
+project URL  [aquí](https://single-page-cv-bs.netlify.app/)
 
 
 ---

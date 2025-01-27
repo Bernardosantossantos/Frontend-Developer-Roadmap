@@ -21,8 +21,8 @@ Este repositorio está dedicado a documentar mi progreso personal mientras compl
 ## Enlace al proyecto
 - [Primer Proyecto: Single-Page CV](https://single-page-cv-bs.netlify.app/)
 
-#### 🌐 **Vista previa del proyecto:**
-Puedes visitar el proyecto en tu navegador haciendo clic [aquí](https://single-page-cv-bs.netlify.app/)
+#### 🌐 **project URL :**
+project URL  [aquí](https://single-page-cv-bs.netlify.app/)
 
 
 
