@@ -38,6 +38,10 @@ project URL  [aquí](https://single-page-cv-bs.netlify.app/)
 
 ---
 
+#### 🌐 **project URL :**
+https://roadmap.sh/projects/single-page-cv
+
+---
 ## 🤝 Contribuciones
 
 Si encuentras algo que pueda mejorar o quieres compartir tus ideas, no dudes en abrir un issue o enviar un pull request. ¡Toda colaboración es bienvenida! 🙌

@@ -24,6 +24,10 @@ Este repositorio está dedicado a documentar mi progreso personal mientras compl
 #### 🌐 **project URL :**
 project URL  [aquí](https://single-page-cv-bs.netlify.app/)
 
+---
+#### 🌐 **project URL :**
+https://roadmap.sh/projects/single-page-cv
+
 
 
 ---
