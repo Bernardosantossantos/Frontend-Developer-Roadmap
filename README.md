@@ -22,7 +22,7 @@ Este repositorio está dedicado a documentar mi progreso personal mientras compl
 - [Primer Proyecto: Single-Page CV](./Single-Page%20CV%20B.S/readme.md)
 
 #### 🌐 **Vista previa del proyecto:**
-Puedes visitar el proyecto en tu navegador haciendo clic [aquí](#).
+Puedes visitar el proyecto en tu navegador haciendo clic [aquí](https://67970a30b8e334c49d24c1d5--creative-palmier-2014e1.netlify.app/).
 
 
 
