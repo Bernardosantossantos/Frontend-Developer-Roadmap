@@ -1,6 +1,6 @@
-# Frontend-Roadmap.sh-B.S 
+# Frontend-Roadmap
 
-¡Bienvenido al repositorio **Frontend-Roadmap.sh-B.S**! En este repositorio estaré subiendo la creación de todos los proyectos del **Frontend Roadmap.sh** realizados por mí. Espero que los disfruten tanto como yo disfruto desarrollarlos. 💻
+¡Bienvenido al repositorio **Frontend-Roadmap**! En este repositorio estaré subiendo la creación de todos los proyectos del **Frontend Roadmap** realizados por mí. Espero que los disfruten tanto como yo disfruto desarrollarlos. 💻
 
 ---
 
