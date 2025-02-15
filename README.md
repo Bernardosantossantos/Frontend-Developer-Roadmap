@@ -29,6 +29,9 @@ Visita el proyecto desde tu navegador  [aquí](https://single-page-cv-bs.netlify
 #### 🌐 **project URL :**
 https://roadmap.sh/projects/single-page-cv
 
+#### 🌐 **project URL :**
+https://roadmap.sh/projects/basic-html-website
+
 
 
 ---
