@@ -37,7 +37,7 @@ El objetivo es dominar la estructura semántica en HTML, asegurando que sea fác
 ---
 
 #### 🌐 **Enlace del proyecto:**
-Visita el proyecto en tu navegador [aquí](#)  
+Visita el proyecto en tu navegador [aquí](https://roadmap.sh/projects/basic-html-website)  
 *(Enlace con tu URL real cuando lo tengas desplegado.)*
 
 ---
