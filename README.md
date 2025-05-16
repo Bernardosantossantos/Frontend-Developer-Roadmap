@@ -14,27 +14,16 @@ Este repositorio está dedicado a documentar mi progreso personal mientras compl
 
 ## 🌟 Proyectos
 
-### 1️⃣ **Primer Proyecto: Single-Page CV**
-> **Descripción:**  
- **Single-Page CV**. Este es un currículum en formato de página única que sigue las buenas prácticas de HTML semántico y otras técnicas esenciales de desarrollo Frontend.
-
-#### 🌐 **Enlace del proyecto:**
-[Single-Page CV](https://roadmap.sh/projects/single-page-cv)
-
----
-
-Visita el proyecto desde tu navegador  [aquí](https://single-page-cv-bs.netlify.app/)
-
----
 #### 🌐 **project URL :**
 https://roadmap.sh/projects/single-page-cv
 
 #### 🌐 **project URL :**
 https://roadmap.sh/projects/basic-html-website
 
-
 #### 🌐 **project URL :**
-project URL : [roadmap.sh Portfolio Website Project](https://roadmap.sh/projects/portfolio-website),
+https://roadmap.sh/projects/portfolio-website
+
+
 ---
 
 ## 📖 Próximos pasos
