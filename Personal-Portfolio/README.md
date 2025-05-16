@@ -54,7 +54,7 @@ Personal-Portfolio/
 
 ## 📋 Requisitos del Proyecto
 
-Este proyecto fue creado como parte del [roadmap.sh Portfolio Website Project](https://roadmap.sh/projects/portfolio-website), cumpliendo con los siguientes requisitos:
+Este proyecto fue creado como parte del project URL : [roadmap.sh Portfolio Website Project](https://roadmap.sh/projects/portfolio-website), cumpliendo con los siguientes requisitos:
 
 - ✅ Sitio web completamente estilizado y responsive
 - ✅ Uso consistente de esquema de colores y tipografía
@@ -94,4 +94,4 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 Las contribuciones son bienvenidas. Para cambios importantes, por favor abre un issue primero para discutir qué te gustaría cambiar.
 
 ---
-⭐️ From [Bernardo A Santos Santos](https://github.com/tu-usuario)
+⭐️ From [Bernardo A Santos Santos](https://github.com/bernardo-santossa)    
