@@ -1,0 +1,334 @@
+/* Estilos generales */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+/* Header y navegación */
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.square {
+    width: 30px;
+    height: 30px;
+    background-color: #000;
+}
+
+nav {
+    color: #666;
+}
+
+nav a {
+    text-decoration: none;
+    color: inherit;
+    padding: 0 5px;
+}
+
+/* Sección Hero */
+.hero {
+    text-align: center;
+    margin-bottom: 50px;
+    padding: 0 20px;
+}
+
+.hero h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    font-family: 'Courier New', monospace;
+}
+
+.hero p {
+    color: #666;
+}
+
+/* Grid principal */
+.main-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 30px;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #eee;
+}
+
+.main-grid h2 {
+    margin-bottom: 20px;
+    font-size: 1.2em;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+}
+
+.main-grid ul {
+    list-style: none;
+}
+
+.main-grid li {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+/* Experiencia */
+.work-item {
+    margin-bottom: 30px;
+    padding: 15px;
+    border-bottom: 1px solid #eee;
+}
+
+.work-item a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+/* Reviews */
+.reviews {
+    margin-bottom: 50px;
+}
+
+.reviews h2 {
+    margin-bottom: 30px;
+}
+
+.reviews-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+.review-card {
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.reviewer {
+    margin-top: 20px;
+    color: #666;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    color: #666;
+    padding: 20px 0;
+    font-family: 'Courier New', monospace;
+}
+
+/* Media Queries para diseño responsive */
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+
+    .nav-container {
+        flex-direction: column;
+        text-align: center;
+        gap: 20px;
+    }
+
+    .main-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .reviews-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .contact-content {
+        grid-template-columns: 1fr;
+    }
+
+    .project-grid,
+    .articles-grid {
+        grid-template-columns: 1fr;
+    }
+
+    /* Ajustes específicos para móvil */
+    .hero h1 {
+        font-size: 2em;
+    }
+
+    .main-grid h2 {
+        text-align: center;
+        background-color: #f5f5f5;
+        padding: 15px;
+        margin: 0;
+        border-bottom: none;
+    }
+
+    .main-grid section {
+        border: 1px solid #eee;
+        margin-bottom: 20px;
+    }
+
+    .work-item {
+        padding: 15px;
+        margin-bottom: 0;
+    }
+
+    .review-card {
+        margin-bottom: 20px;
+    }
+
+    /* Ajustes para el formulario en móvil */
+    .form-group input,
+    .form-group textarea {
+        width: 100%;
+    }
+
+    button[type="submit"] {
+        width: 100%;
+    }
+}
+
+/* Estilos para la página de proyectos */
+.projects-page {
+    padding: 20px 0;
+}
+
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+    margin-top: 30px;
+}
+
+.project-card {
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.project-card h2 {
+    margin-bottom: 10px;
+}
+
+.project-card p {
+    color: #666;
+    margin-bottom: 15px;
+}
+
+.project-link {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+/* Estilos para la página de artículos */
+.articles-page {
+    padding: 20px 0;
+}
+
+.articles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+    margin-top: 30px;
+}
+
+.article-card {
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.article-card h2 {
+    margin-bottom: 10px;
+}
+
+.article-date {
+    color: #666;
+    font-size: 0.9em;
+    margin-bottom: 10px;
+}
+
+.article-link {
+    color: #0066cc;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 15px;
+}
+
+/* Estilos para la página de contacto */
+.contact-page {
+    padding: 20px 0;
+}
+
+.contact-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+    margin-top: 30px;
+}
+
+.contact-info {
+    padding-right: 30px;
+}
+
+.contact-details {
+    margin-top: 20px;
+}
+
+.contact-details p {
+    margin-bottom: 10px;
+}
+
+.contact-details a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.contact-form {
+    display: grid;
+    gap: 20px;
+}
+
+.form-group {
+    display: grid;
+    gap: 5px;
+}
+
+.form-group label {
+    font-weight: bold;
+}
+
+.form-group input,
+.form-group textarea {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 1em;
+}
+
+button[type="submit"] {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+button[type="submit"]:hover {
+    background-color: #333;
+}
