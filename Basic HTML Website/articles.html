@@ -1,51 +1,58 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="description" content="Artículos y publicaciones de Frontend Developer" />
-  <meta name="keywords" content="Frontend, Developer, Artículos, Blog" />
-  <meta name="author" content="Bernardo A Santos Santos" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Frontend Developer | Articles</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Articles | Frontend Developer Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <!-- Encabezado compartido -->
-  <header>
-    <div>
-      <h1>Bernardo A Santos Santos</h1>
-      <nav>
-        <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="projects.html">Projects</a></li>
-          <li><a href="articles.html">Articles</a></li>
-          <li><a href="contact.html">Contact</a></li>
-        </ul>
-      </nav>
-    </div>
-    <section>
-      <h2>Articles</h2>
-      <p>Explore my recent posts and tutorials:</p>
-    </section>
-  </header>
+    <!-- Header con navegación -->
+    <header>
+        <div class="nav-container">
+            <div class="logo">
+                <div class="square"></div>
+                <span>Bernardo A Santos Santos</span>
+            </div>
+            <nav>
+                <a href="home.html">Home</a> /
+                <a href="projects.html">Projects</a> /
+                <a href="articles.html">Articles</a> /
+                <a href="contact.html">Contact</a>
+            </nav>
+        </div>
+    </header>
 
-  <!-- Contenido principal para artículos -->
-  <main>
-    <section>
-      <article>
-        <h3>Artículo 1</h3>
-        <p>Contenido o resumen breve de tu artículo.</p>
-      </article>
-      <article>
-        <h3>Artículo 2</h3>
-        <p>Contenido o resumen breve de tu artículo.</p>
-      </article>
-      <!-- Agrega más artículos según necesites -->
-    </section>
-  </main>
+    <!-- Contenido de Artículos -->
+    <section class="articles-page">
+        <h1>My Articles</h1>
+        
+        <div class="articles-grid">
+            <article class="article-card">
+                <h2>Getting Started with HTML & CSS</h2>
+                <p class="article-date">May 16, 2025</p>
+                <p>A comprehensive guide for beginners starting their journey in web development.</p>
+                <a href="#" class="article-link">Read More</a>
+            </article>
 
-  <!-- Pie de página compartido -->
-  <footer>
-    <p>© all rights reserved 2025</p>
-  </footer>
+            <article class="article-card">
+                <h2>The Power of Semantic HTML</h2>
+                <p class="article-date">May 15, 2025</p>
+                <p>Why semantic HTML is crucial for accessibility and SEO.</p>
+                <a href="#" class="article-link">Read More</a>
+            </article>
+
+            <article class="article-card">
+                <h2>CSS Grid vs Flexbox</h2>
+                <p class="article-date">May 14, 2025</p>
+                <p>Understanding when to use Grid and when to use Flexbox in your layouts.</p>
+                <a href="#" class="article-link">Read More</a>
+            </article>
+        </div>
+    </section>
+
+    <footer>
+        <p>© all rights reserved 2025</p>
+    </footer>
 </body>
 </html>

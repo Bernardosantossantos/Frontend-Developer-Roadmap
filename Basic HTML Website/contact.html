@@ -1,56 +1,67 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="description" content="Página de contacto de Frontend Developer" />
-  <meta name="keywords" content="Frontend, Developer, Contacto, Formulario" />
-  <meta name="author" content="Bernardo A Santos Santos" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Frontend Developer | Contact</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact | Frontend Developer Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <!-- Encabezado compartido -->
-  <header>
-    <div>
-      <h1>Bernardo A Santos Santos</h1>
-      <nav>
-        <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="projects.html">Projects</a></li>
-          <li><a href="articles.html">Articles</a></li>
-          <li><a href="contact.html">Contact</a></li>
-        </ul>
-      </nav>
-    </div>
-    <section>
-      <h2>Contact</h2>
-      <p>Get in touch with me!</p>
+    <!-- Header con navegación -->
+    <header>
+        <div class="nav-container">
+            <div class="logo">
+                <div class="square"></div>
+                <span>Bernardo A Santos Santos</span>
+            </div>
+            <nav>
+                <a href="home.html">Home</a> /
+                <a href="projects.html">Projects</a> /
+                <a href="articles.html">Articles</a> /
+                <a href="contact.html">Contact</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Contenido de Contacto -->
+    <section class="contact-page">
+        <h1>Contact Me</h1>
+        
+        <div class="contact-content">
+            <div class="contact-info">
+                <h2>Get in Touch</h2>
+                <p>Feel free to reach out for collaborations or just a friendly hello</p>
+                
+                <div class="contact-details">
+                    <p>Email: <a href="mailto:contact@example.com">contact@example.com</a></p>
+                    <p>GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a></p>
+                    <p>LinkedIn: <a href="https://linkedin.com/in/yourusername">linkedin.com/in/yourusername</a></p>
+                </div>
+            </div>
+
+            <form class="contact-form">
+                <div class="form-group">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="message">Message:</label>
+                    <textarea id="message" name="message" rows="5" required></textarea>
+                </div>
+
+                <button type="submit">Send Message</button>
+            </form>
+        </div>
     </section>
-  </header>
 
-  <!-- Contenido principal de contacto -->
-  <main>
-    <section>
-      <h3>Enviar Mensaje</h3>
-      <form action="#" method="POST">
-        <label for="name">Nombre</label>
-        <input type="text" id="name" name="name" placeholder="Ingresa tu nombre" required>
-
-        <label for="email">Email</label>
-        <input type="email" id="email" name="email" placeholder="Ingresa tu email" required>
-
-        <label for="message">Mensaje</label>
-        <textarea id="message" name="message" rows="5" placeholder="Escribe tu mensaje..." required></textarea>
-
-        <button type="submit">Enviar</button>
-      </form>
-    </section>
-  </main>
-
-  <!-- Pie de página compartido -->
-  <footer>
-    <p>© all rights reserved 2025</p>
-  </footer>
+    <footer>
+        <p>© all rights reserved 2025</p>
+    </footer>
 </body>
 </html>
-
