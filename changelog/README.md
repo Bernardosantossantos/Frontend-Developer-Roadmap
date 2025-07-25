@@ -38,4 +38,4 @@ Durante este proyecto, reforcé mis conocimientos en:
 
 ## 🔗 Referencias
 
-- [Proyecto Original en roadmap.sh](https://roadmap.sh/projects/changelog-component)
+- project url: https://roadmap.sh/projects/changelog-component
