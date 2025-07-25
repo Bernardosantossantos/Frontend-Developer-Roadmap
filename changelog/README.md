@@ -1,6 +1,6 @@
 # Mi Componente Changelog
 
-Este es mi implementación del proyecto Changelog Component, basado en el desafío de project URL: https://roadmap.sh/projects/changelog-component
+Este es mi implementación del proyecto Changelog Component, basado en el desafío de [roadmap.sh](https://roadmap.sh/projects/changelog-component).
 
 ## 🎯 Lo que he construido
 
@@ -36,4 +36,4 @@ Durante este proyecto, reforcé mis conocimientos en:
 - Implementación de diseños responsive
 - Aplicación de principios de diseño visual
 
-
+🌐 project URL : https://roadmap.sh/projects/changelog-component
