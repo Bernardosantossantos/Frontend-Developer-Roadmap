@@ -36,4 +36,4 @@ Durante este proyecto, reforcé mis conocimientos en:
 - Implementación de diseños responsive
 - Aplicación de principios de diseño visual
 
-🌐 project URL : https://roadmap.sh/projects/changelog-component
+## 🌐 project URL : https://roadmap.sh/projects/changelog-component
